@@ -19,7 +19,7 @@
     "image-to-base64": "^2.0.1",
     "is-url": "^1.2.4",
     "make-dir": "^3.0.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "request": "^2.88.0",
     "xml2js": "^0.4.22"
   }
