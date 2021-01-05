@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "^16.33.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "csv-parse": "^4.6.3",
     "fetch-base64": "^2.1.2",
     "gify": "^0.2.0",
